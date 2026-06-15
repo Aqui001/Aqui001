@@ -4,38 +4,47 @@
 
 <h1 align="center">Aquilo-Dominic Godwin Udo</h1>
 <p align="center">
-  <strong>Full Stack Engineer · Educator · EdTech Founder</strong>
+  <strong>Full Stack Engineer · Data Analyst · Educator · EdTech Founder</strong>
 </p>
 
 <p align="center">
   <a href="https://amakio-landing.vercel.app/about"><img src="https://img.shields.io/badge/Portfolio-0B1F4D?style=for-the-badge&logo=vercel&logoColor=D4A017" /></a>
   <a href="https://www.linkedin.com/in/aquilo-dominic-udo-03b87b66"><img src="https://img.shields.io/badge/LinkedIn-0B1F4D?style=for-the-badge&logo=linkedin&logoColor=D4A017" /></a>
-  <a href="mailto:admin@amakio.com"><img src="https://img.shields.io/badge/Email-0B1F4D?style=for-the-badge&logo=gmail&logoColor=D4A017" /></a>
+  <a href="mailto:officialaquilo@outlook.com"><img src="https://img.shields.io/badge/Email-0B1F4D?style=for-the-badge&logo=microsoftoutlook&logoColor=D4A017" /></a>
 </p>
 
 ---
 
-### About Me
+### 📖 About Me
 
-I build software that empowers education. As the founder of **Amakio** — a school operating system for modern schools — I combine full stack engineering with deep expertise in curriculum development, educational technology, and data analytics.
+I design and build robust software ecosystems that empower modern education. As the founder of **Amakio**, I bridge the gap between engineering and systemic school administration by combining full-stack development with curriculum design and behavioral data analytics.
 
-- Building **Amakio** — 10-module school OS (Student Mgmt, Finance, CBT, Analytics, etc.)
-- Full stack: **TypeScript · React · Node.js · PostgreSQL · Prisma · Astro**
-- Data: **Python · Pandas · Power BI · SPSS · Attendance & Performance Analytics**
-- B.A.Ed. English (UniUyo) + B.A. Church Planting (Kingdom Life University)
-- 6+ years in education: classroom teacher to curriculum specialist to EdTech founder
+- 🚀 **Building Amakio OS:** A comprehensive multi-curriculum school operating system featuring advanced student lifecycle management, automated billing, secure CBT engines, and academic performance tracking.
+- 🧰 **Engineering Mindset:** Designing multi-tenant, offline-first architectures, scalable backend synchronization layers, and precise database schemas.
+- 📊 **Research & Data Modeling:** Expert in correlational design, statistical modeling for classroom management, and translating data trends into actionable administrative strategies.
+- 🎓 **Background:** B.A.Ed. in English (University of Uyo) | 6+ years across classroom leadership, technical school consulting, and software development.
 
 ---
 
-### Featured Projects
+### 🛠️ Tech Stack & Toolbelt
+
+| Focus Layer | Technologies & Frameworks |
+|---|---|
+| **Frontend Engineering** | TypeScript, React, Next.js (App Router), Astro, Tailwind CSS |
+| **Backend & Databases** | Node.js, PostgreSQL, Prisma ORM, SQL Spatial Extensions |
+| **Data & Research Analysis** | Python, Pandas, Power BI, SPSS, Statistical Modeling |
+
+---
+
+### 🏆 Featured Project
 
 [![Amakio Landing](https://github-readme-stats.vercel.app/api/pin/?username=Aqui001&repo=amakio-landing&theme=dark&border_color=1e1e3a&bg_color=07070e&text_color=f1f1f7&title_color=D4A017)](https://github.com/Aqui001/amakio-landing)
 
-**Amakio** — School Operating System for modern education. Marketing site built with Astro + Tailwind, featuring dark/light theme, analytics dashboards, and full brand system.
+**Amakio Ecosystem** — An enterprise-grade operating system designed for modern schools. Includes high-performance user landing modules, administrative control planes, secure spatial tracking features, and data-driven learning hubs.
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Activity & Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aqui001&show_icons=true&theme=dark&bg_color=07070e&border_color=1e1e3a&title_color=D4A017&text_color=f1f1f7&icon_color=D4A017" width="49%" />
@@ -44,12 +53,12 @@ I build software that empowers education. As the founder of **Amakio** — a sch
 
 ---
 
-### Connect With Me
+### 🤝 Let's Connect
 
-- **Portfolio:** https://amakio-landing.vercel.app/about
-- **LinkedIn:** https://www.linkedin.com/in/aquilo-dominic-udo-03b87b66
-- **Email:** admin@amakio.com
-- **Location:** Uyo, Akwa Ibom, Nigeria
+* 🌐 **Product Showcase:** [amakio-landing.vercel.app/about](https://amakio-landing.vercel.app/about)
+* 💼 **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/aquilo-dominic-udo-03b87b66)
+* 📧 **Direct Inquiry:** officialaquilo@outlook.com / admin@amakio.com
+* 📍 **Location:** Uyo, Akwa Ibom, Nigeria
 
 ---
 
